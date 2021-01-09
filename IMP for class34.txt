@@ -1,0 +1,3 @@
+For class34 version2:
+var rope should be declared in sketch.js.
+It is missing in pdf.
